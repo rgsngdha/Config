@@ -1,5 +1,5 @@
 {
-    "spider": "https://gitee.com/437351080/tvconfig/raw/master/test.jar",
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/rgsngdha/Config/main/jar",
     "sites": [
         {
             "key": "天空资源",
