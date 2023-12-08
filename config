@@ -395,7 +395,7 @@
             "type": 0,
             "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV-tvbox.txt",  // https://github.com/Meroser/IPTV
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://github.com/wanglindl/TVlogo/{name}.png"  // "https://epg.112114.xyz/logo/{name}.png"
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
     ],
     //解析设置
