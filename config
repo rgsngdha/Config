@@ -5,7 +5,7 @@
             "key": "豪华资源",
             "name": "🔶豪华资源",
             "type": 1,
-            "api": "https://api.tiankongapi.com/api.php/provide/vod/",
+            "api": "https://hhzyapi.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "categories": [
