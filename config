@@ -2,6 +2,14 @@
     "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/rgsngdha/Config/main/jar;md5;9934076b90a2ab58fc6640a8a5d52c97",
     "sites": [
         {
+            "key": "快云资源",
+            "name": "⛅快云资源",
+            "type": 1,
+            "api": "https://jyzyapi.com/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
             "key": "速播资源",
             "name": "🔷速播资源",
             "type": 1,
