@@ -5,7 +5,7 @@
             "key": "快云资源",
             "name": "⛅快云资源",
             "type": 1,
-            "api": "https://jyzyapi.com/provide/vod/",
+            "api": "https://kuaiyun-api.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1
         },
