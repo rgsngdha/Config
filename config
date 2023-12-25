@@ -5,9 +5,30 @@
             "key": "快云资源",
             "name": "⛅快云资源",
             "type": 1,
-            "api": "https://kuaiyun-api.com/api.php/provide/vod/",
+            "api": "https://jyzyapi.com/provide/vod/",
             "searchable": 1,
-            "quickSearch": 1
+            "quickSearch": 1,
+            "categories": [
+                "内地剧",
+                "短剧",
+                "韩剧",
+                "日剧",
+                "欧美剧",
+                "台湾剧",
+                "中国动漫",
+                "日本动漫",
+                "欧美动漫",
+                "动作片",
+                "爱情片",
+                "喜剧片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "记录片",
+                "综艺",
+                "体育赛事"
+            ]
         },
         {
             "key": "速播资源",
