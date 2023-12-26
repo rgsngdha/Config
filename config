@@ -2,12 +2,35 @@
     "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/rgsngdha/Config/main/jar;md5;9934076b90a2ab58fc6640a8a5d52c97",
     "sites": [
         {
-            "key": "最大资源",
-            "name": "▶️最大资源",
+            "key": "49资源",
+            "name": "4️⃣49资源",
             "type": 1,
-            "api": "https://api.zuidapi.com/api.php/provide/vod/",
+            "api": "https://49zyw.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1
+        },
+        {
+            "key": "暴风资源",
+            "name": "🌀暴风资源",
+            "type": 1,
+            "api": "https://bfzyapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "categories": [
+                "国产剧",
+                "国产动漫",
+                "大陆综艺",
+                "港台综艺",
+                "香港剧",
+                "台湾剧",
+                "日本剧",
+                "欧美剧",
+                "泰国剧",
+                "纪录片",
+                "科幻片",
+                "喜剧片",
+                "战争片"
+            ]
         },
         {
             "key": "快云资源",
@@ -372,29 +395,6 @@
                 "日韩综艺",
                 "欧美综艺",
                 "欧美动漫"
-            ]
-        },
-        {
-            "key": "暴风资源",
-            "name": "🌀暴风资源",
-            "type": 1,
-            "api": "https://bfzyapi.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "categories": [
-                "国产剧",
-                "国产动漫",
-                "大陆综艺",
-                "港台综艺",
-                "香港剧",
-                "台湾剧",
-                "日本剧",
-                "欧美剧",
-                "泰国剧",
-                "纪录片",
-                "科幻片",
-                "喜剧片",
-                "战争片"
             ]
         },
         {
