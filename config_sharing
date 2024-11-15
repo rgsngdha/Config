@@ -1,6 +1,7 @@
 {
     "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/rgsngdha/Config/main/jar;md5;9934076b90a2ab58fc6640a8a5d52c97",
     "sites": [
+{"key":"苹果","name":"苹果┃不卡","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1,"spider":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/rgsngdha/Config/main/fan.txt"},
         {
             "key": "飞速资源",
             "name": "✈️飞速资源",
